@@ -1,0 +1,3 @@
+[submodule "devicon"]
+	path = devicon
+	url = git@github-navds:konpa/devicon.git
